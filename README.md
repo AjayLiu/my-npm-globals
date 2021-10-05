@@ -1,5 +1,8 @@
+```
 npm ls -g --depth 0
-
+```
+yields
+```
 +-- browserify@16.5.1
 +-- concurrently@5.3.0
 +-- depcheck@1.3.1
@@ -11,7 +14,7 @@ npm ls -g --depth 0
 +-- touch-cli@0.0.1
 +-- watchify@3.11.1
 `-- yarn@1.22.10
-
+```
 
 To quickly download essentials
 ```
