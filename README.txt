@@ -11,3 +11,8 @@ npm ls -g --depth 0
 +-- touch-cli@0.0.1
 +-- watchify@3.11.1
 `-- yarn@1.22.10
+
+
+To quickly download essentials
+```
+npm install --global yarn netlify-cli concurrently nodemon
