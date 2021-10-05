@@ -16,3 +16,4 @@ npm ls -g --depth 0
 To quickly download essentials
 ```
 npm install --global yarn netlify-cli concurrently nodemon
+```
